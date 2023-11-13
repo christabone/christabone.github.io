@@ -1,5 +1,5 @@
 ---
-title: FlyBase.org
+title: FlyBase
 # summary: An example of using the in-built project page.
 # tags:
 #   - Deep Learning
@@ -30,4 +30,4 @@ external_link: 'http://www.flybase.org'
 # slides: example
 ---
 
-FlyBase.org is a comprehensive database for Drosophila genetics and molecular biology, providing researchers with a wide array of tools and resources. It houses an extensive collection of data on gene function, expression, and molecular pathways, alongside detailed genetic, genomic, and biological information on the fruit fly Drosophila melanogaster. FlyBase.org serves as an essential platform for the scientific community, facilitating the exploration and analysis of the Drosophila model organism to advance our understanding of biological processes and human diseases.
+FlyBase is a comprehensive database for Drosophila genetics and molecular biology, providing researchers with a wide array of tools and resources. It houses an extensive collection of data on gene function, expression, and molecular pathways, alongside detailed genetic, genomic, and biological information on the fruit fly Drosophila melanogaster. FlyBase.org serves as an essential platform for the scientific community, facilitating the exploration and analysis of the Drosophila model organism to advance our understanding of biological processes and human diseases.
