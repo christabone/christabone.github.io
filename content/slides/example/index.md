@@ -55,7 +55,6 @@ if porridge == "blueberry":
 ```
 
 ---
-
 ## Fragments
 
 Make content appear incrementally
