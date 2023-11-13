@@ -1,12 +1,12 @@
 ---
-title: FlyBase
+title: Alliance of Genome Resources
 # summary: An example of using the in-built project page.
 # tags:
 #   - Deep Learning
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'http://www.flybase.org'
+external_link: 'http://www.alliancegenome.org'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -30,4 +30,4 @@ external_link: 'http://www.flybase.org'
 # slides: example
 ---
 
-FlyBase is a comprehensive database for Drosophila genetics and molecular biology, providing researchers with a wide array of tools and resources. It houses an extensive collection of data on gene function, expression, and molecular pathways, alongside detailed genetic, genomic, and biological information on the fruit fly Drosophila melanogaster.
+The Alliance of Genome Resources is a collaborative platform uniting several model organism databases and the Gene Ontology Consortium to support comparative genomics research. Its mission is to develop and maintain a comprehensive genome resource, empowering researchers to explore the genetic and genomic underpinnings of human biology, health, and disease through the lens of diverse model organisms.
