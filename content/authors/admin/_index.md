@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher J Tabone, PhD
+title: Christopher J Tabone
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
