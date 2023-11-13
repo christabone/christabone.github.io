@@ -53,7 +53,7 @@ sections:
   - block: features
     content:
       title: Skills
-      subtitle: My technical skills and core competencies.
+      subtitle: Technical skills and core competencies.
       # text: Section text
       items:
         - name: Python
