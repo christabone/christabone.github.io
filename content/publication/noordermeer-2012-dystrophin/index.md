@@ -12,7 +12,7 @@ authors:
 - Smid Hans
 - LG Fradkin
 date: '2012-01-01'
-publishDate: '2023-11-13T20:02:24.197700Z'
+publishDate: '2023-11-13T19:08:43.296101Z'
 publication_types:
 - paper-conference
 publication: '*JOURNAL OF NEUROGENETICS*'

@@ -14,7 +14,7 @@ authors:
 - Masamitsu Yamaguchi
 - ' others'
 date: '2019-01-01'
-publishDate: '2023-11-13T20:02:24.258940Z'
+publishDate: '2023-11-13T19:08:43.370473Z'
 publication_types:
 - article-journal
 publication: '*Brain Research*'
