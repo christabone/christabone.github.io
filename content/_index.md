@@ -50,37 +50,11 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: feature
-    content: 
+  - block: markdown
+    id: skills
+    content:
       title: Skills
-      items:
-      - icon: "skills/r-project-icon"
-        icon_pack: custom
-        name: R
-      - icon: "skills/python-5"
-        icon_pack: custom
-        name: Python
-      - icon: chart-line
-        icon_pack: fas
-        name: Analytics
-      - icon: "skills/djangoproject-icon"
-        icon_pack: "custom"
-        name: "Django"
-      - icon: "skills/stata1"
-        icon_pack: "custom"
-        name: "STATA"
-      - icon: language
-        icon_pack: fas
-        name: Natural Language Processing
-      - icon: database
-        name: SQL
-        icon_pack: fas
-      - icon: "skills/pytorch"
-        icon_pack: "custom"
-        name: PyTorch
-      - icon: "skills/keras"
-        icon_pack: "custom"
-        name: Keras
+      text: test
   - block: experience
     content:
       title: Experience
