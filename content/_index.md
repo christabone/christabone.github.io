@@ -65,15 +65,18 @@ sections:
         - name: Docker
           icon: docker
           icon_pack: custom
-        - name: Ansible
-          icon: ansible
+        - name: Linux
+          icon: linux
           icon_pack: custom
         - name: Neo4j
           icon: neo4j
           icon_pack: custom
         - name: Genomics
           icon: genomics
-          icon_pack: custom    
+          icon_pack: custom
+        - name: Molecular Biology
+          icon: molecular
+          icon_pack: custom
   - block: experience
     content:
       title: Experience & Education
@@ -90,18 +93,35 @@ sections:
           company: Harvard University
           company_url: 'http://www.harvard.edu'
           company_logo: harvard
-          location: Massachusetts
+          # location: Massachusetts
           date_start: '2016-09-01'
           date_end: ''
-          description: Maintenance of genomic databases for FlyBase.org and Alliancegenome.org
+          description: Maintenance of genomic databases for FlyBase.org and Alliancegenome.org.
         - title: Biocurator
           company: Harvard University
           company_url: 'http://www.harvard.edu'
           company_logo: harvard
-          location: Massachusetts
+          # location: Massachusetts
           date_start: '2015-06-01'
-          date_end: '2026-08-31'
+          date_end: '2016-08-31'
           description: Biocuration and genome annotation for FlyBase.org.
+        - title: Postdoctoral Fellow
+          company: Harvard University
+          company_url: 'http://www.harvard.edu'
+          company_logo: harvard
+          # location: Massachusetts
+          date_start: '2013-10-01'
+          date_end: '2015-05-31'
+          description: Elucidating whole-network connectivity of the Drosophila larval antennal lobe using in vivo calcium imaging and computational modeling.
+        - title: Postdoctoral Fellow
+          company: Trinity College Dublin
+          company_url: 'https://www.tcd.ie/'
+          company_logo: trinity
+          # location: Massachusetts
+          date_start: '2011-02-01'
+          date_end: '2013-09-30'
+          description: Investigated the neuronal circuits underlying behavioral habituation and extinction using Drosophila melanogaster.
+          
     design:
       columns: '2'
   # - block: accomplishments
