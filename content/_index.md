@@ -93,7 +93,7 @@ sections:
           # location: Massachusetts
           date_start: '2016-09-01'
           date_end: ''
-          description: Maintenance of genomic databases for FlyBase.org and Alliancegenome.org.
+          description: Overseeing the development and management of genomic databases at FlyBase.org and Alliancegenome.org, with a focus on integrative computational biology to support model organism research.
         - title: Biocurator
           company: Harvard University
           company_url: 'http://www.harvard.edu'
