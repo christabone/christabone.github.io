@@ -92,8 +92,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:christabone@gmail.com"
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
     link: https://scholar.google.ca/citations?user=gV1E_kAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
