@@ -50,11 +50,18 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: markdown
-    id: skills
+  - block: features
     content:
       title: Skills
-      text: test
+      subtitle: My technical skills and core competencies
+      text: Section text
+      items:
+        - name: Python
+          icon: python
+          icon_pack: fas
+        - name: Postgres
+          icon: postgres
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
