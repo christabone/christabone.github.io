@@ -101,6 +101,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christopher-tabone-34265a58/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0000-0001-8746-0680
 #   # Link to a PDF of your resume/CV.
 #   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 #   # and uncomment the lines below.
