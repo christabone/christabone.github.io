@@ -115,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-Christopher J. Tabone is a Senior Programmer Analyst at FlyBase.org and Alliancegenome.org, focusing on genomics database development. His research interests span molecular biology, bioinformatics, and computational biology. He is actively involved in enhancing, maintaining, and integrating comprehensive databases for genetic and genomic research, particularly in the context of Drosophila melanogaster and other model organisms.
+Hi! I'm Chris. I'm a Senior Programmer Analyst at FlyBase.org and Alliancegenome.org. My role involves the development and integration of genomics databases, with a focus on Drosophila and other model organisms. My past research experience includes a variety of subjects -- behavioral neuroscience, cellular & molecular biology, and computational biology. Outside of my professional life, I'm passionate about nature, conservation, and whatever tech gadget happens to land on my desk. Thanks for stopping by!
 {style="text-align: justify;"}
