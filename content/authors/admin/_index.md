@@ -21,8 +21,8 @@ role: Senior Programmer Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Harvard University
-    url: https://www.harvard.edu/
+  - name: The Jackson Laboratory
+    url: https://www.jax.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include molecular biology, genomic databases, and bioinformatics.

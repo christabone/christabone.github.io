@@ -87,12 +87,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Senior Programmer Analyst
+          company: The Jackson Laboratory
+          company_url: 'https://www.jax.org/'
+          company_logo: jax
+          # location: Massachusetts
+          date_start: '2024-07-01'
+          date_end: ''
+          description: Continuing to oversee the development and management of genomic databases at FlyBase.org and Alliancegenome.org.
+        - title: Senior Programmer Analyst
           company: Harvard University
           company_url: 'http://www.harvard.edu'
           company_logo: harvard
           # location: Massachusetts
           date_start: '2016-09-01'
-          date_end: ''
+          date_end: '2024-06-30'
           description: Overseeing the development and management of genomic databases at FlyBase.org and Alliancegenome.org, with a focus on integrative computational biology to support model organism research.
         - title: Biocurator
           company: Harvard University
