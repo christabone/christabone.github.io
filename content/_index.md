@@ -62,8 +62,8 @@ sections:
         - name: Postgres
           icon: postgresql
           icon_pack: custom
-        - name: Docker
-          icon: docker
+        - name: AI/ML
+          icon: aiml
           icon_pack: custom
         - name: Linux
           icon: linux
@@ -93,7 +93,7 @@ sections:
           # location: Massachusetts
           date_start: '2024-07-01'
           date_end: ''
-          description: Continuing to oversee the development and management of genomic databases at FlyBase.org and Alliancegenome.org.
+          description: Developing and maintaining infrastructure for the Alliance of Genome Resources, including DevOps, CI/CD pipelines (GoCD, Ansible), and AWS services. Building AI-powered curation tools to accelerate genomic data integration, and helping teams across the project adopt AI workflows. Also continuing to support database and pipeline operations for FlyBase.org. Core stack includes Python, PostgreSQL, and AWS.
         - title: Senior Programmer Analyst
           company: Harvard University
           company_url: 'http://www.harvard.edu'
@@ -101,7 +101,7 @@ sections:
           # location: Massachusetts
           date_start: '2016-09-01'
           date_end: '2024-06-30'
-          description: Overseeing the development and management of genomic databases at FlyBase.org and Alliancegenome.org, with a focus on integrative computational biology to support model organism research.
+          description: Managed database infrastructure and AWS deployments for FlyBase.org, building and maintaining data pipelines (GoCD) and developing tools to streamline curation workflows and automate data loading into genomic databases. Also contributed to early development of the Alliance of Genome Resources.
         - title: Biocurator
           company: Harvard University
           company_url: 'http://www.harvard.edu'
@@ -109,7 +109,7 @@ sections:
           # location: Massachusetts
           date_start: '2015-06-01'
           date_end: '2016-08-31'
-          description: Biocuration and genome annotation for FlyBase.org.
+          description: Curated physical interaction and genetic data from scientific literature for FlyBase.org, including triaging and extracting key findings from publications. Developed automation scripts to streamline curation workflows that were widely adopted across the project.
         - title: Postdoctoral Fellow
           company: Harvard University
           company_url: 'http://www.harvard.edu'
@@ -117,7 +117,7 @@ sections:
           # location: Massachusetts
           date_start: '2013-10-01'
           date_end: '2015-05-31'
-          description: Elucidating whole-network connectivity of the Drosophila larval antennal lobe using in vivo calcium imaging and computational modeling.
+          description: Served as the lead Drosophila geneticist in an interdisciplinary physics lab, managing fly stocks and strains, designing experiments, and performing fluorescent confocal imaging to help elucidate whole-network connectivity of the larval antennal lobe through computational modeling.
         - title: Postdoctoral Fellow
           company: Trinity College Dublin
           company_url: 'https://www.tcd.ie/'
