@@ -117,7 +117,7 @@ sections:
           # location: Massachusetts
           date_start: '2013-10-01'
           date_end: '2015-05-31'
-          description: Served as the lead Drosophila geneticist in an interdisciplinary physics lab, managing fly stocks and strains, designing experiments, and performing fluorescent confocal imaging to help elucidate whole-network connectivity of the larval antennal lobe through computational modeling.
+          description: Lab of Aravinthan Samuel. Served as the lead Drosophila geneticist in an interdisciplinary physics lab, managing fly stocks and strains, designing experiments, and performing fluorescent confocal imaging to help elucidate whole-network connectivity of the larval antennal lobe through computational modeling.
         - title: Postdoctoral Fellow
           company: Trinity College Dublin
           company_url: 'https://www.tcd.ie/'
@@ -125,7 +125,7 @@ sections:
           # location: Massachusetts
           date_start: '2011-02-01'
           date_end: '2013-09-30'
-          description: Investigated the neuronal circuits underlying behavioral habituation and extinction using Drosophila melanogaster.
+          description: Lab of Mani Ramaswami. Investigated the neuronal circuits underlying behavioral habituation and extinction using Drosophila melanogaster.
           
     design:
       columns: '2'
