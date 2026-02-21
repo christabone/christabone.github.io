@@ -109,7 +109,7 @@ sections:
           # location: Massachusetts
           date_start: '2015-06-01'
           date_end: '2016-08-31'
-          description: Curated physical interaction and genetic data from scientific literature for FlyBase.org, including triaging and extracting key findings from publications. Developed automation scripts to streamline curation workflows that were widely adopted across the project.
+          description: Curated physical interaction and genetic data from scientific literature for FlyBase.org, including triaging and extracting key findings from publications. Developed automation scripts to streamline curation workflows.
         - title: Postdoctoral Fellow
           company: Harvard University
           company_url: 'http://www.harvard.edu'
